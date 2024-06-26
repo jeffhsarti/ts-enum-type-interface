@@ -1,0 +1,1 @@
+# ts-enum-type-interface
